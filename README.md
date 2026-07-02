@@ -27,7 +27,7 @@ If you're building something interesting — I'm always open to chat or collabor
 
 ## 🖥️ Portfolio & Projects
 
-🔗 [https://portfolio.rith.codes/](https://portfolio.rith.codes/)
+🔗 [https://project-manager-portfolio-seven.vercel.app/](https://project-manager-portfolio-seven.vercel.app/)
 
 Web apps, automation systems, dashboards, and AI experiments.
 
@@ -35,7 +35,7 @@ Web apps, automation systems, dashboards, and AI experiments.
 
 ## 🌐 Socials
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vann-sengmey-b022b73b9/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vannsengmey748@gmail.com)
 
 ---
 
